@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = ff24a5d45cb28adf702cd044b76b0f89b034d10f
+AESD_ASSIGNMENTS_VERSION = 78169614eb7b376d5176d802c3fef6e9e15a6608
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-DL821at.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
